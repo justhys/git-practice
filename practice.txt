@@ -1,3 +1,2 @@
 Hello.
-This is the first test of git.
-Commit is the action to save changes to staging area
+I'm a web developer
