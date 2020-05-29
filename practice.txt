@@ -1,2 +1,3 @@
 Hello.
 I'm a web developer living in Seoul
+I like music.
